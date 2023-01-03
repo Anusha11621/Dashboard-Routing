@@ -1,0 +1,93 @@
+*{
+  background-color: rgb(170, 248, 248);
+}
+.navcontainer {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: start;
+  float: left;
+  background-color: rgb(243, 243, 243);
+  height: 100vh;
+  width: 300px;
+}
+
+.home{
+  
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 350px;
+}
+.homecard{
+  margin-top: 30px;
+  padding: 10px;
+  font-size: 20px;
+  height: 50px;
+  width: 500px;
+  background-color: white;
+  /* text-decoration: none; */
+  
+  color: black;
+  border-radius:10px ;
+  box-shadow: 1px 1px 20px rgb(126, 126, 126);
+}
+.articlelink{
+  text-decoration: none;
+}
+.articlecontainer{
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 350px;
+}
+.input{
+  border: 1px sloid black;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.links{
+  
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.articletitle{
+  font-size: 20px;
+  font-weight:bold;
+}
+
+.dash{
+  background-color: rgb(56, 86, 240);
+  height: 50px;
+}
+.dashboard{
+  padding: 40px;
+  font-size: 30px;
+  background-color: transparent;
+  color: white;
+  text-decoration: none;
+}
+
+svg{
+  margin-right: 10px;
+  background-color: transparent;
+  height: 20px;
+}
+.singlearticle{
+  padding-left: 350px;
+  padding-top:30px ;
+}
+.navlink{
+  color: rgb(121, 46, 121);
+  font-size: large;
+  font-weight: bold;
+}
+
+.help{
+  padding-left: 350px;
+  padding-top: 30px;
+}
